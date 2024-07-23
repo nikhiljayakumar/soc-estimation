@@ -13,6 +13,6 @@ This system assumes muxes are present in the circuit schematic. It chooses sends
 
 The ADC is used to convert the analog signals to digital and store the values for calculations.
 
-Mux and ADC design is in [`stm32/Core/src/main.c`](stm32/Core/src/main.c)
+Mux and ADC design is in [`stm32/Core/Src/main.c`](stm32/Core/Src/main.c)
 IOC file visualizes what pins are connected to input and output.
 
